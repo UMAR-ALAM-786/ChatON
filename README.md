@@ -2,14 +2,6 @@
 
 A modern and scalable **Real-Time Chat Application** built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). This project delivers secure authentication, instant messaging, and live online status updates through Socket.io.
 
-![Demo App](https://i.ibb.co/fXmZdnz/Screenshot-10.png)
-
-## 🎥 Demo
-
-Watch the complete tutorial here:
-
-https://youtu.be/HwCqsOis894
-
 ---
 
 # 🚀 Features
